@@ -1,0 +1,5 @@
+{
+  "name": "GymFlow Tracker",
+  "description": "A professional workout tracking application with real-time session logging, rest timers, and historical performance analytics.",
+  "requestFramePermissions": []
+}
